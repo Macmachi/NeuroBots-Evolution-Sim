@@ -3,7 +3,9 @@
 ## 📚 Projet Éducatif sur l'Intelligence Artificielle et l'Évolution
 
 Ce projet est une simulation interactive qui démontre les principes de base des réseaux de neurones et de l'évolution artificielle. 🎓
-![vidéo de démo](DemoVideo_v1.0.0.gif)
+<p align="center">
+  <img src="DemoVideo_v1.0.0.gif" alt="vidéo de démo" width="500"/>
+</p>
 
 ### 🌟 Caractéristiques principales
 
