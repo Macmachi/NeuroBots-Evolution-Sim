@@ -49,8 +49,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à forker le projet, appo
 
 ### 📜 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
----
-
-Créé par Arnaud pour l'éducation en IA et en programmation.
+Ce projet est sous licence MIT pour l'éducation en IA et en programmation. Voir le fichier `LICENSE` pour plus de détails.
